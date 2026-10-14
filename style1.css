@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: hsl(302, 100%, 93%);
+    color: #333;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    background-color: #de02f2;
+    color: #663300;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+article {
+    background-color: white;
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px #ddd;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: #4e0066;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+}
